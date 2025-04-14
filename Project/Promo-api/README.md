@@ -47,8 +47,8 @@ The setup consists of the following components:
 1. Clone this repository
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone <https://github.com/FahadWarraich/V-CC-25-CwCk1-285035.git>
+   cd <V-CC-25-CwCk1-285035>
    ```
 
 2. Create the NGINX configuration file
